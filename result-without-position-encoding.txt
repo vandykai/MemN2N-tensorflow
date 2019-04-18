@@ -1,0 +1,41 @@
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 651.9649269517408, 'epoch': 0, 'learning_rate': 0.01, 'valid_perp
+lexity': 335.76507783064204}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 249.29498386828277, 'epoch': 1, 'learning_rate': 0.01, 'valid_per
+plexity': 221.3598944216727}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 181.79233458686755, 'epoch': 2, 'learning_rate': 0.01, 'valid_per
+plexity': 187.2837300349776}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 148.64391124265924, 'epoch': 3, 'learning_rate': 0.01, 'valid_per
+plexity': 165.2678356857961}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 127.55764020933391, 'epoch': 4, 'learning_rate': 0.01, 'valid_per
+plexity': 157.00478772146724}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 114.39232509173146, 'epoch': 5, 'learning_rate': 0.01, 'valid_per
+plexity': 144.46482652678955}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 103.2645476098326, 'epoch': 6, 'learning_rate': 0.01, 'valid_perp
+lexity': 153.93428652783624}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 86.50766006484623, 'epoch': 7, 'learning_rate': 0.006666666666666
+667, 'valid_perplexity': 130.98002648680975}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 80.63319962967282, 'epoch': 8, 'learning_rate': 0.006666666666666
+667, 'valid_perplexity': 134.34819131881255}
+[KTrain |################################| 100.0% | ETA: 0sss
+[KValidation |################################| 100.0% | ETA: 0s
+{'perplexity': 72.57007686256277, 'epoch': 9, 'learning_rate': 0.004444444444444
+4444, 'valid_perplexity': 122.61976950026707}
+[?25h
